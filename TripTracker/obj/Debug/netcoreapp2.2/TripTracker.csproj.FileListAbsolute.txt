@@ -1,0 +1,14 @@
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\bin\Debug\netcoreapp2.2\TripTracker.deps.json
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\bin\Debug\netcoreapp2.2\TripTracker.runtimeconfig.json
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\bin\Debug\netcoreapp2.2\TripTracker.runtimeconfig.dev.json
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\bin\Debug\netcoreapp2.2\TripTracker.dll
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\obj\Debug\netcoreapp2.2\TripTracker.csprojAssemblyReference.cache
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\obj\Debug\netcoreapp2.2\TripTracker.csproj.CoreCompileInputs.cache
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\obj\Debug\netcoreapp2.2\TripTracker.RazorAssemblyInfo.cache
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\obj\Debug\netcoreapp2.2\TripTracker.RazorAssemblyInfo.cs
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\obj\Debug\netcoreapp2.2\TripTracker.AssemblyInfoInputs.cache
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\obj\Debug\netcoreapp2.2\TripTracker.AssemblyInfo.cs
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\obj\Debug\netcoreapp2.2\TripTracker.RazorTargetAssemblyInfo.cache
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\bin\Debug\netcoreapp2.2\TripTracker.pdb
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\obj\Debug\netcoreapp2.2\TripTracker.dll
+C:\Users\Fiszy\source\repos\TripTracker\TripTracker\obj\Debug\netcoreapp2.2\TripTracker.pdb
